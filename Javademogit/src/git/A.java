@@ -7,6 +7,9 @@ public class A {
 	public void m1()
 	{
 		int x=10;
+
+		System.out.println("Hello");
+		
 		
 	}
 	
